@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115534077800",
+    "project_id": "imagelabeling-firebaseml-cw08",
+    "storage_bucket": "imagelabeling-firebaseml-cw08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115534077800:android:6d4ef654ad1daf346d80dd",
+        "android_client_info": {
+          "package_name": "com.cw8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzoyFA_0IP_H7uM4JMeT2-VI-692dMEIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
