@@ -1,4 +1,4 @@
-package com.example.imagelabeling_firebaseml_cw08
+package com.cw8
 
 import io.flutter.embedding.android.FlutterActivity
 
